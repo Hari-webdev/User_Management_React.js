@@ -1,0 +1,41 @@
+
+
+.output{
+    display: flex;
+    justify-content: space-between;
+    padding:35px 150px ;
+    align-items: center;
+    margin-bottom: 10px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    font-size: 18px;
+    font-weight: 700;
+
+    
+}
+
+
+.output .output_btn{
+    border: 3px solid  #0fb9b1;
+    padding: 15px 17px;
+    border-radius: 6px;
+    font-weight: 800;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-bottom: 35px;
+
+}
+
+.output .output_btn:hover{
+    border-color: aliceblue;
+    background-color:  #0fb9b1;
+
+
+}
+
+.space{
+    background-color: rgb(140, 194, 188);
+    width: 500px;
+    height: 45px;
+
+}
+

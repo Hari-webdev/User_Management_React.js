@@ -1,0 +1,65 @@
+.Home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+}
+.home__container input{
+  width: 450px;
+  height: 35px;
+  padding-left:15px ;
+  border: none;
+  outline: none;
+  font-size: 15px;
+
+
+    
+}
+
+.home__container {
+    margin-top: 25px;
+    text-align: center;
+    background-color: #0fb9b1;
+    padding: 35px 35px;
+    border-radius: 6px;
+    
+
+}
+
+.Home h1{
+    text-transform: uppercase;
+
+}
+
+.home__container textarea{
+    width: 450px;
+    height: 50px;
+    padding-left:15px ;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    resize: none;
+    
+  
+      
+}
+
+.Home button{
+    padding: 7px 22px;
+    border: none;
+    border-radius: 15px;
+    background-color:#fff;
+    cursor: pointer;
+    border: 3px solid white;
+    font-weight: 700;
+    
+}
+
+.Home button:hover{
+    background-color: rgb(24, 230, 161);
+    
+   
+}
